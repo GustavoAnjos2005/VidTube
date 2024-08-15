@@ -1,8 +1,12 @@
-# React + Vite
+# VidTube
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## In this project, I watched the video by GreatStack for inspiration. I will leave the link to the video below:
 
-Currently, two official plugins are available:
+### https://youtu.be/Zb1zVeXLUf8?si=iMZFhFghJaqLgJkj
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+VidTube is a project that simulates a YouTube web page and is built with:
+
+- React.JS
+- YouTube API
+
+![Youtube1](https://github.com/user-attachments/assets/4f0585c8-edaa-456e-8254-53a263491b92)
